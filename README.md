@@ -5,4 +5,4 @@ $ wget -O ~/.tmux.conf https://raw.githubusercontent.com/Farooq-azam-khan/tmux-c
 ```
 1. lauch tmux
 2. source the file with `tmux source ~/.tmux.conf`
-3. install plugins with <leader>I
+3. install plugins with `<leader>I`
