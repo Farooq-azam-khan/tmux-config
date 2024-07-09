@@ -14,7 +14,8 @@ https://dev.to/nexxeln/my-developer-workflow-using-wsl-tmux-and-neovim-55f5
 1. Install nerdfont with the following: 
 ```bash
 # pick a font: [https://www.nerdfonts.com/font-downloads](https://www.nerdfonts.com/font-downloads)
-wget -O ~/.local/share/fonts/ ~/. https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/Agave.zip
+ mkdir ~/.local/share/fonts
+wget -O ~/.local/share/fonts/Agave.zip ~/. https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/Agave.zip
 # unzip in fonts dir 
 cd ~/.local/share/fonts
 unzip Agave.zip
