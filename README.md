@@ -10,6 +10,7 @@ $ wget -O ~/.tmux.conf https://raw.githubusercontent.com/Farooq-azam-khan/tmux-c
 
 # Startship
 [https://starship.rs/](https://starship.rs/)
+https://dev.to/nexxeln/my-developer-workflow-using-wsl-tmux-and-neovim-55f5
 1. Install nerdfont with the following: 
 ```bash
 # pick a font: [https://www.nerdfonts.com/font-downloads](https://www.nerdfonts.com/font-downloads)
