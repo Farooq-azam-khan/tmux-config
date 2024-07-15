@@ -10,7 +10,16 @@ $ wget -O ~/.tmux.conf https://raw.githubusercontent.com/Farooq-azam-khan/tmux-c
 # Useful commands to Know
 * `<prefix>b` goes to last window
 * `<prefix>q` shows pane number
+* `<prefix>z` zoom into pane
+* `<prefix>x` close window
 
+## Session Commands
+* `<prefix>s` list all session while inside tmux session.
+ * Can navigate to enter into an ongoing session or press escape to keep yourself in the current session
+* `tmux attach -t [session-name]` attaches to tmux session by name
+* `tmux new -s [session-name]` create a new session
+
+  
 # Startship
 [https://starship.rs/](https://starship.rs/)
 https://dev.to/nexxeln/my-developer-workflow-using-wsl-tmux-and-neovim-55f5
