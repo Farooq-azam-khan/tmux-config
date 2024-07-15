@@ -42,3 +42,7 @@ rm Agave.zip
 
 2. Install starship with `curl -sS https://starship.rs/install.sh | sh`
 2.1 might have to create/update user password with `sudo passwd [username]` 
+
+# TODO
+* [ ] figure out how to use `tmux-yank`
+* [ ] is mouse support for tmux needed/good?
