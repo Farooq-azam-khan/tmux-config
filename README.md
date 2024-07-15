@@ -8,6 +8,7 @@ $ wget -O ~/.tmux.conf https://raw.githubusercontent.com/Farooq-azam-khan/tmux-c
 3. install plugins with `<leader>I`
 
 # Useful commands to Know
+* [cheathseet](https://tmuxcheatsheet.com/)
 * `<prefix>b` goes to last window
 * `<prefix>q` shows pane number
 * `<prefix>z` zoom into pane
