@@ -7,6 +7,9 @@ $ wget -O ~/.tmux.conf https://raw.githubusercontent.com/Farooq-azam-khan/tmux-c
 2. source the file with `tmux source ~/.tmux.conf`
 3. install plugins with `<leader>I`
 
+# Useful commands to Know
+* `<prefix>b` goes to last window
+* `<prefix>q` shows pane number
 
 # Startship
 [https://starship.rs/](https://starship.rs/)
