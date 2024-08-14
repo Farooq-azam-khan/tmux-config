@@ -9,6 +9,7 @@ $ wget -O ~/.tmux.conf https://raw.githubusercontent.com/Farooq-azam-khan/tmux-c
 
 # Useful commands to Know
 * [cheathseet](https://tmuxcheatsheet.com/)
+* `<prefix>c` create new window
 * `<prefix>b` goes to last window
 * `<prefix>q` shows pane number
 * `<prefix>z` zoom into pane
