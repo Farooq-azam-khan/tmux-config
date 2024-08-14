@@ -45,5 +45,5 @@ rm Agave.zip
 2.1 might have to create/update user password with `sudo passwd [username]` 
 
 # TODO
-* [ ] figure out how to use `tmux-yank`
+* [x] figure out how to use `tmux-yank`
 * [x] is mouse support for tmux needed/good? yes - good for some usecases. could be an anti-pattern if always relying on it. 
