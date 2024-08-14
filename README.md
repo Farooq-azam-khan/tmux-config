@@ -45,4 +45,4 @@ rm Agave.zip
 
 # TODO
 * [ ] figure out how to use `tmux-yank`
-* [ ] is mouse support for tmux needed/good?
+* [x] is mouse support for tmux needed/good? yes - good for some usecases. could be an anti-pattern if always relying on it. 
