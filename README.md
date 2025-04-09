@@ -41,12 +41,7 @@ fc-cache -f -v
 rm Agave.zip
 ```
 
-2. Install starship with
-```bash
-curl -sS https://starship.rs/install.sh > starship_install.sh
-chmod u+x ./starship_install.sh
-sudo ./starship_install.sh
-```
+2. Install [starship](https://starship.rs/guide)
 
   2.1 might have to create/update user password with `sudo passwd [username]` if you installed it this way: `curl -sS https://starship.rs/install.sh | sh`
 
